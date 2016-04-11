@@ -1,0 +1,2 @@
+# cijax
+CodeIgniter AJAX Library
